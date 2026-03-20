@@ -1,0 +1,16 @@
+# Backend
+backend/.env
+backend/telegram-auth-app
+
+# Frontend
+frontend/node_modules/
+frontend/.env
+frontend/build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
